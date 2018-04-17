@@ -2,7 +2,6 @@
     <wb-module deploy-name="ChinesePoemGenerator">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/lib"/>
         <property name="context-root" value="ChinesePoemGenerator"/>
         <property name="java-output-path" value="/ChinesePoemGenerator/build/classes"/>
     </wb-module>
